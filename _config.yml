@@ -1,0 +1,28 @@
+name: Arteriorcept Inc.
+favicon: null
+layout_spectrum: 0.024360668612644076
+typography_spectrum: 0.1868675637524575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.07683561835438013
+  lightness: 0.26031441683880985
+  saturation: 0.2244164936710149
+  rhythmicContrast: 0.2021421322133392
+purpose: []
